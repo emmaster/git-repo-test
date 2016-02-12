@@ -1,0 +1,2 @@
+Print ("test git console client");
+Print ("test git console client2");
